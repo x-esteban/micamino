@@ -130,3 +130,5 @@ dmypy.json
 
 # Custom
 download_link.txt
+data/
+camino/
