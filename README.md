@@ -1,4 +1,4 @@
-# micamino
+# micamino 🚲
 **Mi camino** aims to be a little project for tracking my daily progress during my *Camino de Santiago* on bike. It will consist of several Python scripts that perform the following actions:
 
 - Download all files in a *Google Drive* folder (gpx files and pictures) at set intervals.
