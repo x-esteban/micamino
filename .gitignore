@@ -132,3 +132,5 @@ dmypy.json
 download_link.txt
 data/
 camino/
+img/
+camino_original.csv
